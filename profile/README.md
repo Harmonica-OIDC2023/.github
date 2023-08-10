@@ -25,8 +25,8 @@ Serverless를 클라우드와 온프레미스 각 환경에 맞게끔 간편하�
 ---
 <h2 align='center'>실행 방법</h2>
 
-### Docker compose로 실행
-
+### Docker compose로 실행 
+[![Docker Hub Logo](https://img.shields.io/badge/DockerHub-Images-yellow.svg?logo=docker)](https://hub.docker.com/repositories/harmonica2023)
 ```yaml
 services:
   web-server:
@@ -50,6 +50,5 @@ networks:
   default:
     name: harmonica-network
 ```
-
 ---
 <h3 align='center'>🚨 Harmonica는 <a href="https://www.oidc.co.kr/">OIDC 2023</a>의 출품작입니다. 대회 기간 동안 무단 도용, 배포 및 상업적 사용을 금지합니다. 🚨</h3>
