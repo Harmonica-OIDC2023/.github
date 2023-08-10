@@ -20,7 +20,7 @@ Serverless를 클라우드와 온프레미스 각 환경에 맞게끔 간편하�
 
 ---
 <h2 align='center'>개발 환경 구성</h2>
-<p align='center'><img src="https://github.com/Harmonica-OIDC2023/.github/assets/68985625/328f89a3-9d03-46dc-80f7-7bb73480bef9"/></p>
+<img width="882" alt="image" src="https://github.com/Harmonica-OIDC2023/.github/assets/68985625/fd90d10c-3bb8-467d-a546-3c1c8945e4fa">
 
 ---
 <h2 align='center'>실행 방법</h2>
