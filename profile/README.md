@@ -2,7 +2,10 @@
 
 <h4 align='center'><a href="https://github.com/NayeonKeum">금나연</a> <a href="https://github.com/kgw7401">김건우</a> <a href="https://github.com/noooey">박규연</a> <a href="https://github.com/Linho1150">이재준</a></h4>
 
+<h3 align='center'> <a href="https://www.oidc.co.kr/0416a9d3-9c61-48b6-a892-dde98e5c0974"> 🏆금상🏆 </a> </h3>  
+
 ---
+
 <h1 align='center'>Hybrid 클라우드 사용을 위한 Serverless Switch 플랫폼</h1>
 
 Serverless를 클라우드와 온프레미스 각 환경에 맞게끔 간편하게 변환하여 **Hybrid 인프라 환경**을 더 효율적으로 활용할 수 있게 하는 **Serverless 변환 서비스**를 개발한다.
